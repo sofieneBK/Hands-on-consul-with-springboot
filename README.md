@@ -3,4 +3,4 @@ Code for Hands-on Consul With Spring Boot Tutorial
 
 ![](https://raw.githubusercontent.com/sofieneBK/Hands-on-consul-with-springboot/main/spring%20boot%20with%20consul.PNG)
 
-Full article: [Hands-on Hexagonal Consul With Spring Boot]()
+Full article: [Hands-on Consul With Spring Boot]()
