@@ -1,0 +1,12 @@
+age: 25
+name: Bruno
+address: Paris
+spring:
+  application:
+    name: demo-consul
+  config:
+    import: 'optional:consul:'
+  cloud:
+    consul:
+      config:
+        format: yaml
